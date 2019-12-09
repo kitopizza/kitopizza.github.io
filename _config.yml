@@ -1,12 +1,11 @@
 # Site settings
-title: Pizzas webs
-email:
+title: Web Worker
+email: webworker.ar@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/kitopizza" # the subpath of your site, e.g. /blog/
 url: "https://kitopizza.github.io" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+
 
 # Build settings
 markdown: kramdown
